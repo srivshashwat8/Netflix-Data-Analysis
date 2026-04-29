@@ -87,6 +87,15 @@ Identified directors with the highest number of titles.
 
 ---
 
+## Sample Visualizations
+
+![Content Growth](images/content_growth.png)
+![Top Genres](images/top_genres.png)
+![Top Countries](images/top_countries.png)
+![Type Distribution](images/type_distribution.png)
+
+---
+
 ## Tools & Technologies Used
 
 • Python  
