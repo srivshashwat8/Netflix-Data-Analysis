@@ -107,6 +107,7 @@ Identified directors with the highest number of titles.
 ---
 
 ## Project Structure
+
 Netflix_Content_Analysis/
 │
 ├── Netflix_Content_Analysis.ipynb
